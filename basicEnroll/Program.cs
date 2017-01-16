@@ -14,9 +14,21 @@ namespace basicEnroll
         [STAThread]
         static void Main()
         {
+            int testVariable;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+
+        }
+    }
+
+    static class AnotherClass
+    {
+        static private string testFunction(string testString)
+        {
+            string hiThere = "Hi There";
+            return hiThere;
         }
     }
 }
