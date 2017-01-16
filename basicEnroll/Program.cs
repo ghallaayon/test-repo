@@ -19,6 +19,8 @@ namespace basicEnroll
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
 
+            string str = "string";
+
 
         }
     }
@@ -28,7 +30,8 @@ namespace basicEnroll
         static private string testFunction(string testString)
         {
             string hiThere = "Hi There";
-            return hiThere;
+            int extraVariable = 23;
+            return "hi";
         }
     }
 }
