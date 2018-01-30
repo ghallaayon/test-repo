@@ -20,7 +20,8 @@ namespace basicEnroll
             Application.Run(new Form1());
 
             string str = "string";
-
+            
+            string unnecessary = "unnecessary";
 
         }
     }
