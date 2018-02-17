@@ -14,6 +14,9 @@ namespace basicEnroll
         [STAThread]
         static void Main()
         {
+        
+        
+        
             int testVariable;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
