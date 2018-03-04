@@ -8,7 +8,10 @@ namespace basicEnroll
 {
     static class Program
     {
+	var unusedVariable;
+
         /// <summary>
+	///
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
