@@ -9,7 +9,7 @@ namespace basicEnroll
     static class Program
     {
 	var unusedVariable;
-
+        var anotherUnused;
         /// <summary>
 	///
         /// The main entry point for the application.
