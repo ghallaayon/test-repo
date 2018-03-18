@@ -11,7 +11,6 @@ namespace basicEnroll
 	var unusedVariable;
         var anotherUnused;
 
-	var hi;
         var anotherUnused = "update?";
         var update = "update.";    
         /// <summary>
