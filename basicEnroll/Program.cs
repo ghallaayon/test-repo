@@ -12,6 +12,8 @@ namespace basicEnroll
         var anotherUnused;
 
 	var hi;
+        var anotherUnused = "update?";
+        var update = "update.";    
         /// <summary>
 	///
         /// The main entry point for the application.
