@@ -10,6 +10,8 @@ namespace basicEnroll
     {
 	var unusedVariable;
         var anotherUnused;
+
+	var hi;
         /// <summary>
 	///
         /// The main entry point for the application.
