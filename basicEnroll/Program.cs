@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.IO;
 using System.Windows.Forms;
 
 namespace basicEnroll
@@ -14,6 +15,8 @@ namespace basicEnroll
         [STAThread]
         static void Main()
         {
+            int unused = 5;
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
